@@ -1,4 +1,4 @@
-## Hey 👋  My name is Yanan Lyu
+## Hey 👋  My name is Yanan
 
 ### I am a software engineer based in France.
 
